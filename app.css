@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    background-color: #F1F1F1;
+}
+h1 {
+    text-align: center;
+    color: #023047;
+    padding: 2px 0 0 0; 
+    font-size: 20;
+}
+
+
+.map iframe{
+    width: 95%;
+    height: 35rem;
+    margin: 50px auto;
+    display: flex;
+    border: 10px solid darkcyan;
+
+}
+
+.map{
+    padding: 0;
+}
+
+/* ksksks */
+
+*{
+    margin: 0;
+}
+
+.banner{
+    width: 100%;
+}
+.foot{
+    width: 100%;
+}
